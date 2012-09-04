@@ -18,13 +18,13 @@ Add the script to the `<head>` of your document (or before all other scripts usi
 Then asynchronously load a script with a callback function:
 
 ```js
-(function liveDemo#x2713; {
+(function liveDemo() {
   var src = 'http://cloudfront.loggly.com/js/loggly-0.2.1.js'
-  function callback#x2713; {
+  function callback() {
     alert('It works!')
   }
   _async.load(document, src, callback)
-}#x2713;)
+}())
 ```
 
 ... and you're done!
@@ -43,8 +43,8 @@ Then asynchronously load a script with a callback function:
 <th>Android</th>
 <th>Blackberry</th>
 <th>Opera Mobile</th>
-<th>Chrome/Android</th>
-<th>Firefox/Android</th>
+<th>Chrome Android</th>
+<th>Firefox Android</th>
 </thead>
 <tbody>
 <tr>
