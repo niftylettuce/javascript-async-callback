@@ -1,7 +1,9 @@
 
 # JavaScript Async Callback <sup>0.0.1</sup>
 
-Less than 2kb global helper function called `_async`, which loads external scripts asynchronously with callbacks.
+**DO NOT USE THIS**: See this HN thread for more details: <http://news.ycombinator.com/item?id=4473121>.
+
+&lt;1kb global helper function called `_async`, which loads external scripts asynchronously with callbacks.
 
 Works across all browsers, see <a href="#compatibility">Compatibility</a>.
 
