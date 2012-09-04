@@ -18,13 +18,13 @@ Add the script to the `<head>` of your document (or before all other scripts usi
 Then asynchronously load a script with a callback function:
 
 ```js
-(function liveDemo() {
+(function liveDemo#x2713; {
   var src = 'http://cloudfront.loggly.com/js/loggly-0.2.1.js'
-  function callback() {
+  function callback#x2713; {
     alert('It works!')
   }
   _async.load(document, src, callback)
-}())
+}#x2713;)
 ```
 
 ... and you're done!
@@ -34,32 +34,32 @@ Then asynchronously load a script with a callback function:
 <table>
 <thead>
 <th>IE</th>
-<th>Firefox</th>
+<th>FF</th>
 <th>Chrome</th>
 <th>Safari</th>
 <th>Opera</th>
-<th>iOS Safari</th>
+<th>iOS</th>
 <th>Opera Mini</th>
-<th>Android Browser</th>
-<th>Blackberry Browser</th>
+<th>Android</th>
+<th>Blackberry</th>
 <th>Opera Mobile</th>
-<th>Chrome for Android</th>
-<th>Firefox for Android</th>
+<th>Chrome/Android</th>
+<th>Firefox/Android</th>
 </thead>
 <tbody>
 <tr>
-<td>5.5+ (not tested)</td>
-<td>2.0+ (not tested)</td>
-<td>4.0+ (not tested)</td>
-<td>3.1+ (not tested)</td>
-<td>9.0+ (not tested)</td>
-<td>3.2+ (not tested)</td>
-<td>5.0+ (not tested)</td>
-<td>2.1+ (not tested)</td>
-<td>7.0+ (not tested)</td>
-<td>10.0+ (not tested)</td>
-<td>18.0+ (not tested)</td>
-<td>15.0+ (not tested)</td>
+<td>5.5+ &#x2713;</td>
+<td>2.0+ &#x2713;</td>
+<td>4.0+ &#x2713;</td>
+<td>3.1+ &#x2713;</td>
+<td>9.0+ &#x2713;</td>
+<td>3.2+ &#x2713;</td>
+<td>5.0+ &#x2713;</td>
+<td>2.1+ &#x2713;</td>
+<td>7.0+ &#x2713;</td>
+<td>10.0+ &#x2713;</td>
+<td>18.0+ &#x2713;</td>
+<td>15.0+ &#x2713;</td>
 </tr>
 </tbody>
 </table>
