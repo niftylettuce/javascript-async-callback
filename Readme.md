@@ -1,6 +1,8 @@
 
 # JavaScript Async Callback <sup>0.0.1</sup>
 
+Load external scripts asynchronously with callbacks.
+
 ## Live Demo
 
 View the <a href="https://niftylettuce.github.com/javascript-async-callback">live demo</a>.
