@@ -3,6 +3,8 @@
 
 **DO NOT USE THIS**: See this HN thread for more details: <http://news.ycombinator.com/item?id=4473121>.
 
+**USE THIS INSTEAD**: <https://gist.github.com/3620903#comments>
+
 &lt;1kb global helper function called `_async`, which loads external scripts asynchronously with callbacks.
 
 Works across all browsers, see <a href="#compatibility">Compatibility</a>.
