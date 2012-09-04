@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <title>javascript-async-callback</title>
+    <script src="/async.min.js"></script>
+  </head>
+  <body>
+    <h1><a href="https://github.com/niftylettuce/javascript-async-callback">javascript-async-callback</a></h1>
+    <h2>Live Demo</h2>
+    <p>A popup should appear soon to confirm the async callback was triggered.</p>
+    <hr />
+    <h2>Snippet</h2>
+    <pre>
+      <code>
+        (function liveDemo() {
+          var src = 'http://cloudfront.loggly.com/js/loggly-0.2.1.js'
+          function callback() {
+            alert('It works!')
+          }
+          _async.load(document, src, callback)
+        }())
+      </code>
+    </pre>
+    <hr />
+    <h2>Download (latest version)</h2>
+    <ul>
+      <li><code><a href="https://raw.github.com/niftylettuce/javascript-async-callback/master/async.js">async.js</a></code> (development)</li>
+      <li><code><a href="https://raw.github.com/niftylettuce/javascript-async-callback/master/async.min.js">async.min.js</a></code> (production)</li>
+    </ul>
+    <hr />
+    <h2><a href="https://github.com/niftylettuce/javascript-async-callback/issues">Report Issue</a></h2>
+    <script>
+      (function liveDemo() {
+        var src = 'http://cloudfront.loggly.com/js/loggly-0.2.1.js'
+        function callback() {
+          alert('It works!')
+        }
+        _async.load(document, src, callback)
+      }())
+    </script>
+  </body>
+</html>
