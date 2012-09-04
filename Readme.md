@@ -5,7 +5,7 @@ Load external scripts asynchronously with callbacks.
 
 ## Live Demo
 
-View the <a href="https://niftylettuce.github.com/javascript-async-callback">live demo</a>.
+View the <a href="http://niftylettuce.github.com/javascript-async-callback">live demo</a>.
 
 ## Quick Start
 
