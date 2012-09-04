@@ -19,7 +19,7 @@ Then asynchronously load a script with a callback function:
 
 ```js
 (function liveDemo() {
-  var src = 'http://cloudfront.loggly.com/js/loggly-0.2.1.js'
+  var src = '//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js'
   function callback() {
     alert('It works!')
   }
