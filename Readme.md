@@ -3,6 +3,8 @@
 
 Less than 2kb global helper function called `_async`, which loads external scripts asynchronously with callbacks.
 
+Works across all browsers, see <a href="#compatibility">Compatibility</a>.
+
 ## Live Demo
 
 View the <a href="http://niftylettuce.github.com/javascript-async-callback">live demo</a>.
