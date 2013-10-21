@@ -1,3 +1,4 @@
+[![Gittip](http://badgr.co/gittip/niftylettuce.png)](https://www.gittip.com/niftylettuce/)
 
 # JavaScript Async Callback <sup>0.0.1</sup>
 
